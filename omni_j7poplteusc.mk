@@ -30,10 +30,10 @@ PRODUCT_PACKAGES += \
     charger_res_images \
     charger
 
-PRODUCT_NAME := omni_j7popltespr
-PRODUCT_DEVICE := j7popltespr
+PRODUCT_NAME := omni_j7poplteusc
+PRODUCT_DEVICE := j7poplteusc
 PRODUCT_BRAND := Samsung
-PRODUCT_MODEL := SM-J727P
+PRODUCT_MODEL := SM-J727R4
 PRODUCT_MANUFACTURER := Samsung
 
 # DTB Work-Around

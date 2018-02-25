@@ -35,7 +35,3 @@ PRODUCT_DEVICE := j7poplteusc
 PRODUCT_BRAND := Samsung
 PRODUCT_MODEL := SM-J727R4
 PRODUCT_MANUFACTURER := Samsung
-
-# DTB Work-Around
-PRODUCT_COPY_FILES += \
-    device/samsung/j7popltespr/dt.img:dt.img

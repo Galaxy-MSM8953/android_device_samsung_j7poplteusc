@@ -50,7 +50,7 @@ TARGET_KERNEL_CROSS_COMPILE_PREFIX := aarch64-linux-android-
 TARGET_KERNEL_CONFIG               := j7poplteusc_defconfig
 
 # MKBootImg
-BOARD_CUSTOM_BOOTIMG_MK := device/samsung/j7popltespr/mkbootimg.mk
+BOARD_CUSTOM_BOOTIMG_MK := device/samsung/j7poplteusc/mkbootimg.mk
 
 # Platform
 TARGET_BOARD_PLATFORM := msm8953

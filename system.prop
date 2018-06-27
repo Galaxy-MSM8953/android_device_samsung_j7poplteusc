@@ -5,7 +5,13 @@ ro.qualcomm.cabl=2
 ro.config.low_ram=false
 ro.config.zram=false
 
+# Carrier identity
+ro.com.google.clientidbase.ms=android-uscellular-us
+ro.com.google.clientidbase.am=android-uscellular-us
+ro.com.google.clientidbase.yt=android-samsung
+
 # RIL
+ro.gsm.data_retry_config=max_retries=infinite,0,0,60000,120000,480000,900000
 ro.cdma.home.operator.numeric=311580
 gsm.operator.numeric=311580
 ro.telephony.default_network=10

@@ -8,3 +8,7 @@ LOCAL_PATH := device/samsung/j7poplteusc
 
 # System properties
 TARGET_SYSTEM_PROP := $(LOCAL_PATH)/system.prop
+
+# Ramdisk
+PRODUCT_PACKAGES += \
+    init.rilcarrier.rc

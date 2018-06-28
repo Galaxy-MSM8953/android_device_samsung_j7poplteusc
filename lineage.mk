@@ -15,4 +15,4 @@ PRODUCT_GMS_CLIENTID_BASE := android-samsung
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     BUILD_FINGERPRINT=samsung/j7poplteusc/j7poplteusc:7.0/NRD90M/J727R4TYS1ARC1:user/release-keys \
-    PRIVATE_BUILD_DESC="j7poplteusc-user 7.0 NRD90M J727R4TYS1ARC1 release-keys" \
+    PRIVATE_BUILD_DESC="j7poplteusc-user 7.0 NRD90M J727R4TYS1ARC1 release-keys"
